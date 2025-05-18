@@ -20,6 +20,7 @@
      ```
      https://xx1050.xyz/api/v1/client/subscribe?token=你的订阅token
      ```
+   - 点击【自动更新】设置1440。
    - 命名后点击【保存并更新】。
 
 4. **启用配置文件：**  
