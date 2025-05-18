@@ -73,7 +73,7 @@ Clash Verge 是一款现代化的 Clash 客户端，支持多平台使用（Wind
 > 一个稳定高速、价格亲民、适合新手的多协议机场，支持 Clash 完美订阅
 
 - 官网地址：[https://xx1050.top](https://xx1050.top)
-- 支持协议：Clash / V2Ray / Trojan / SS / SSR
+- 全终端支持
 - 特点：
   - 支持 IPv6 / 解锁流媒体（Netflix、YouTube）
   - 多地区节点，速度快稳定
